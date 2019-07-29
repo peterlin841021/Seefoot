@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">行人避障導航</string>
+    <string name="API_KEY">AIzaSyBqAf9ubtD6TNZ3095JdwubThymw2JgrHo</string>
+    <string-array name="mode">
+        <item>Avoid traffic light</item>
+        <item>All route</item>
+    </string-array>
+</resources>
